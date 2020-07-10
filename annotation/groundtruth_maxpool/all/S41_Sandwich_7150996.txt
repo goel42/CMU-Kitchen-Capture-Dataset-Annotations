@@ -1,0 +1,6 @@
+put_bread
+take_peanut_butter_and_jam_glass
+fill_jam
+take_peanut_butter_and_jam_glass
+fill_peanut_butter
+take_plate

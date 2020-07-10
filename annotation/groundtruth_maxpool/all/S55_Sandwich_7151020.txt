@@ -1,0 +1,6 @@
+take_peanut_butter_and_jam_glass
+put_bread
+take_knife
+fill_jam
+fill_peanut_butter
+remove_utensils

@@ -1,0 +1,11 @@
+take_salt_and_pepper_shaker
+take_bowl
+take_oil_bottle
+put_pan
+put_oil_butter
+crack_egg
+clean_hands
+add_salt_and_pepper
+put_eggs_on_pan
+put_eggs_on_plate
+remove_utensils

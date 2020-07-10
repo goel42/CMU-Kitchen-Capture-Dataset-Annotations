@@ -1,0 +1,15 @@
+0 stir_egg
+1 add_salt_and_pepper
+2 put_oil_butter
+3 crack_egg
+4 put_eggs_on_plate
+5 put_pan
+6 put_eggs_on_pan
+7 take_egg
+8 take_bowl
+9 take_plate
+10 clean_hands
+11 take_mixing_tool
+12 take_oil_bottle
+13 take_salt_and_pepper_shaker
+14 remove_utensils

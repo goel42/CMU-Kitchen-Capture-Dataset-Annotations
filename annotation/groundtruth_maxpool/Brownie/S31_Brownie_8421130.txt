@@ -1,0 +1,15 @@
+take_egg
+take_bowl
+take_mixing_tool
+crack_egg
+clean_hands
+stir
+fill_water
+fill_oil
+fill_brownie_mix
+stir
+clean_hands
+put_pan
+fill_butter
+fill_dough
+bake

@@ -1,0 +1,11 @@
+take_egg
+take_bowl
+crack_egg
+fill_water
+fill_oil
+fill_brownie_mix
+stir
+put_pan
+fill_butter
+fill_dough
+bake

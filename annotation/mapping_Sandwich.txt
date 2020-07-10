@@ -1,0 +1,9 @@
+0 take_peanut_butter_and_jam_glass
+1 fill_jam
+2 fill_peanut_butter
+3 put_bread
+4 take_knife
+5 take_bread_bag
+6 take_plate
+7 remove_utensils
+8 cut_sandwich

@@ -1,0 +1,13 @@
+take_egg
+take_bowl
+crack_egg
+clean_hands
+put_pan
+take_oil_bottle
+stir_egg
+put_oil_butter
+stir_egg
+add_salt_and_pepper
+stir_egg
+put_eggs_on_pan
+put_eggs_on_plate

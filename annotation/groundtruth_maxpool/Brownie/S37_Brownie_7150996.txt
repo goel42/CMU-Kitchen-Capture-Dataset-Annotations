@@ -1,0 +1,8 @@
+take_bowl
+fill_water
+fill_oil
+crack_egg
+clean_hands
+stir
+take_croutons
+clean_hands

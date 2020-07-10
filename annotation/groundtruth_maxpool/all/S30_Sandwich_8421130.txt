@@ -1,0 +1,7 @@
+take_bread_bag
+take_peanut_butter_and_jam_glass
+take_plate
+take_knife
+put_bread
+fill_jam
+fill_peanut_butter
